@@ -1,5 +1,5 @@
 # AT_PE_Classification
-Pulmonary Embolism Binary Classification using Logistic Regression, KNN and NN
+Pulmonary Embolism Binary Classification On Bedside Clinical Features using Logistic Regression, KNN and NN
 
 Full Code for the Project on Google Collab:
 [https://colab.research.google.com/drive/1VuVAvVOlnlr5kxqFZ_hvDzJ5YLNGqXFC?usp=sharing](https://colab.research.google.com/drive/1VuVAvVOlnlr5kxqFZ_hvDzJ5YLNGqXFC?usp=sharing)
